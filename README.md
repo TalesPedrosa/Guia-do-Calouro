@@ -8,3 +8,8 @@ O repositório guia do calouro é uma atividade de trio que tem como objetivo or
 - [Link Dicas de estudo](https://github.com/TalesPedrosa/Guia-do-Calouro/blob/main/dicas-de-estudo.md)
 - [Link Clubes e atividades](https://github.com/TalesPedrosa/Guia-do-Calouro/blob/main/Clubes%20e%20atividades)
 - [Link Contatos úteis da escola](https://github.com/TalesPedrosa/Guia-do-Calouro/blob/main/Contatos%20%C3%BAteis%20da%20escola)
+
+## Equipe 
+Tales - Responsável pela criação do repositório, milestone, issues 1 e 2, e read me
+Alice - Responsável pelas issues 3 e 4
+Pablo - Responsável pelas issues 5 e 6
